@@ -1,0 +1,34 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Bruno Silva",
+      "serie": "3ºano",
+      "nota": 9.3,
+      "aprovado": true
+    },
+    [
+      {
+        "id": 2,
+        "nome": "Samanta Oliveira",
+        "serie": "3ºano",
+        "nota": 4.5,
+        "aprovado": false
+      }
+    ]
+  ],
+  "professor": [
+    {
+      "id": 1,
+      "nome": "Carlos Alexandre",
+      "materia": "Matemática"
+    },
+    [
+      {
+        "id": 2,
+        "nome": "Samanta Oliveira",
+        "materia": "Português"
+      }
+    ]
+  ]
+}
